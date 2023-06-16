@@ -2,4 +2,8 @@ Sample data
 test line1
 test line2
 test line3
+<<<<<<< HEAD
 hiiif  r"
+=======
+line4 line 5
+>>>>>>> main
